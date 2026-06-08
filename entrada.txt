@@ -1,0 +1,8 @@
+﻿{
+"nombre" : "Gabriela Vera",
+"edad"   : "24",
+"activo" : TrUe,
+"placa"  : "D0lar$",
+"mal"    : $ "gabi",
+"vacia"  : ""
+}
